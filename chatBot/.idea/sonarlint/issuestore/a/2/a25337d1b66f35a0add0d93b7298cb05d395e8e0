@@ -1,0 +1,27 @@
+
+`
+java:S2095`"JUse try-with-resources or close this "XSSFWorkbook" in a "finally" clause.(Ú‹…
+h
+java:S2095_"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(¾¡½ßÿÿÿÿÿ
+2
+java:S16439"Use a StringBuilder instead.(¤ö¸ß
+d
+java:S1128"NRemove this unused import 'org.springframework.web.servlet.view.RedirectView'.(ñÎ²Ò
+u
+java:S1450!"ZRemove the "description" field and declare it as a local variable in the relevant methods.(ÇÓæâıÿÿÿÿ
+x
+java:S1450 "]Remove the "precautionFour" field and declare it as a local variable in the relevant methods.(—š£èüÿÿÿÿ
+w
+java:S1450"\Remove the "precautionOne" field and declare it as a local variable in the relevant methods.(¡ß÷áûÿÿÿÿ
+t
+java:S1450"^Remove the "precautionThree" field and declare it as a local variable in the relevant methods.(ıÍ½
+w
+java:S1450"\Remove the "precautionTwo" field and declare it as a local variable in the relevant methods.(ÙæëÂûÿÿÿÿ
+e
+java:S44880"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ËŸÜùşÿÿÿÿ
+_
+java:S1858U"D"getMessage" returns a string, there's no need to call "toString()".(ÔïĞ³úÿÿÿÿ
+N
+java:S1117["8Rename "list" which hides the field declared at line 28.(ÔÊğ÷
+W
+java:S1075^"ARefactor your code to get this URI from a customizable parameter.(´Ğ®©

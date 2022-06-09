@@ -1,0 +1,21 @@
+
+f
+6src/main/java/com/just/chatbot/ChatBotApplication.java,b\4\b445aca8bd9b5a5dff81b1ee7aa9cf629511ae6e
+^
+.src/main/java/com/just/chatbot/Completion.java,0\d\0d6d70fb8f3571c4f1ce84bd4cf56a2feabcbaf3
+h
+8src/main/java/com/just/chatbot/CompletionController.java,7\a\7a4cf65c2e8caa20e5b210c559df82fa345407e2
+b
+2src/main/java/com/just/chatbot/ChatController.java,a\2\a25337d1b66f35a0add0d93b7298cb05d395e8e0
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+k
+;src/test/java/com/just/chatbot/ChatBotApplicationTests.java,7\8\786d94f5c1dd6f9014e22b1f4b96170fd94541ab
+O
+src/main/webapp/WEB-INF/web.xml,2\e\2e22b6edd746fa3dc40ad7276c87c8d87d72a392
+^
+.src/main/webapp/WEB-INF/dispatcher-servlet.xml,5\6\5610820762bc3ec47cc9dbd7324c057405172b6d
+_
+/src/main/webapp/WEB-INF/views/getCompletion.jsp,a\0\a091b04d9c70d93b5c80e869fb11f3aa92038a83
+V
+&src/main/webapp/WEB-INF/views/chat.jsp,2\2\2244cf09111adfc05398f2c4c309fdd03de9b96d

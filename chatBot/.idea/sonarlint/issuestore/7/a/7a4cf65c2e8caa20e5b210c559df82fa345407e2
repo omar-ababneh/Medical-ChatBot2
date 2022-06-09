@@ -1,0 +1,29 @@
+
+`
+java:S2095_"JUse try-with-resources or close this "XSSFWorkbook" in a "finally" clause.(Ú‹…
+h
+java:S2095^"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(¾¡½ßÿÿÿÿÿ
+2
+java:S16434"Use a StringBuilder instead.(¤ö¸ß
+r
+java:S1488:"\Immediately return this expression instead of assigning it to the temporary variable "json".(ŞÔÉÚ
+u
+java:S1450""ZRemove the "description" field and declare it as a local variable in the relevant methods.(ÇÓæâıÿÿÿÿ
+x
+java:S1450!"]Remove the "precautionFour" field and declare it as a local variable in the relevant methods.(—š£èüÿÿÿÿ
+w
+java:S1450"\Remove the "precautionOne" field and declare it as a local variable in the relevant methods.(¡ß÷áûÿÿÿÿ
+t
+java:S1450 "^Remove the "precautionThree" field and declare it as a local variable in the relevant methods.(ıÍ½
+w
+java:S1450"\Remove the "precautionTwo" field and declare it as a local variable in the relevant methods.(ÙæëÂûÿÿÿÿ
+^
+java:S4488+"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Èšæ
+_
+java:S1858T"D"getMessage" returns a string, there's no need to call "toString()".(ÔïĞ³úÿÿÿÿ
+N
+java:S1117Z"8Rename "list" which hides the field declared at line 29.(ÔÊğ÷
+W
+java:S1075]"ARefactor your code to get this URI from a customizable parameter.(´Ğ®©
+I
+java:S14811"3Remove this unused "fullCompletion" local variable.(ê×ÓÄ
